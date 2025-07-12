@@ -1,6 +1,6 @@
-# JPG to WebP Chrome Extension Landing Page
+# AI answer generator Chrome Extension Landing Page
 
-This is a simple landing page for the JPG to WebP Chrome Extension. The page provides information about the extension and instructions on how to use it.
+This is a simple landing page for the AI answer generator Chrome Extension. The page provides information about the extension and instructions on how to use it.
 
 ## Features
 
